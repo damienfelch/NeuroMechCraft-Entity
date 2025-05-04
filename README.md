@@ -38,7 +38,7 @@ This file is the model for the NeuroMechCraft entity. I created the model in Blo
 
 ### EntityCybug.java
 
-This file is the actual entity class which contains all of the mob's attributes. I borrowed a lot of the code for this class from the Minecraft EntitySpider file as it contained a lot of the same abilities and movement we want our fully integrated Minecraft fLy agent to have.
+This file is the actual entity class which contains all of the mob's attributes. I borrowed a lot of the code for this class from the Minecraft EntitySpider file as it contained a lot of the same abilities and movement we want our fully integrated Minecraft fly agent to have.
 
 ### Mobs.java
 
@@ -75,6 +75,10 @@ This is the main mod class. I used it to define the mod ID, name, and version, a
 ### Ref.java
 
 This file contains useful strings/constants that are referenced throughout the project.
+
+### cybug.png
+
+This is the texture file for the entity. I created this in blockbench before exporting it as an usable file.
 
 ## In order to run this mod:
 
